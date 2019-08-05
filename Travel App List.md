@@ -32,14 +32,14 @@
 - [Booking](https://play.google.com/store/apps/details?id=com.booking)
 
 ## 🎒 Trip Planner
-- [TripIt!]()
-- [GMaps]()
+- [TripIt!](https://play.google.com/store/apps/details?id=com.tripit)
+- [GMaps](https://play.google.com/store/apps/details?id=com.google.android.apps.maps)
 
 ## 🍝 Food
-- [GMaps]()
-- [The Fork]()
-- [TripAdvisor]()
+- [GMaps](https://play.google.com/store/apps/details?id=com.google.android.apps.maps)
+- [The Fork](https://play.google.com/store/apps/details?id=com.lafourchette.lafourchette)
+- [TripAdvisor](https://play.google.com/store/apps/details?id=com.tripadvisor.tripadvisor)
 
 ## 👛 LowCost
-- [Poracci]()
-- [Piratin]()
+- [Poracci in viaggio](https://play.google.com/store/apps/details?id=com.nelloascioneweb.poracciinviaggio)
+- [Piratin](https://play.google.com/store/apps/details?id=com.tippingcanoe.urlaubspiraten)
