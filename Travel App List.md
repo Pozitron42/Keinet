@@ -31,7 +31,7 @@
 ## 🍝 Food
 - [GMaps]()
 - [The Fork]()
--[TripAdvisor]()
+- [TripAdvisor]()
 
 ## 👛 LowCost
 - [Poracci]()
