@@ -16,14 +16,16 @@
 - [Avis Auto Noleggio](https://play.google.com/store/apps/details?id=com.avis.mobile)
 
 ## 🚅✈️ Travel
-- [Omio]()
-- [Trainline]()
-- [Trenitalia]()
-- [FlixBus]()
-- [BlaBla Car]()
+- [Omio](https://play.google.com/store/apps/details?id=com.goeuro.rosie)
+- [Trainline](https://play.google.com/store/apps/details?id=com.thetrainline)
+- [Trenitalia](https://play.google.com/store/apps/details?id=com.lynxspa.prontotreno)
+- [FlixBus](https://play.google.com/store/apps/details?id=de.flixbus.app)
+- [BlaBla Car](https://play.google.com/store/apps/details?id=com.comuto)
 
 ## 🛎️ Booking
-- [Trivago]()
+- [Trivago](https://play.google.com/store/apps/details?id=com.trivago)
+- [AirBnB](https://play.google.com/store/apps/details?id=com.airbnb.android)
+
 
 ## 🎒 Trip Planner
 - [TripIt!]()
