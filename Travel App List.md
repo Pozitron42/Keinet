@@ -17,15 +17,19 @@
 
 ## 🚅✈️ Travel
 - [Omio](https://play.google.com/store/apps/details?id=com.goeuro.rosie)
+- [SkyScanner](https://play.google.com/store/apps/details?id=net.skyscanner.android.main)
 - [Trainline](https://play.google.com/store/apps/details?id=com.thetrainline)
 - [Trenitalia](https://play.google.com/store/apps/details?id=com.lynxspa.prontotreno)
 - [FlixBus](https://play.google.com/store/apps/details?id=de.flixbus.app)
 - [BlaBla Car](https://play.google.com/store/apps/details?id=com.comuto)
 
+- [CityMapper](https://play.google.com/store/apps/details?id=com.citymapper.app.release)
+- [Moovit](https://play.google.com/store/apps/details?id=com.tranzmate)
+
 ## 🛎️ Booking
 - [Trivago](https://play.google.com/store/apps/details?id=com.trivago)
 - [AirBnB](https://play.google.com/store/apps/details?id=com.airbnb.android)
-
+- [Booking](https://play.google.com/store/apps/details?id=com.booking)
 
 ## 🎒 Trip Planner
 - [TripIt!]()
