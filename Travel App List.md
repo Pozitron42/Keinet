@@ -9,10 +9,11 @@
 - [Ubeeqoo](https://play.google.com/store/apps/details?id=com.ubeeqo.mobilities)
 
 ## 🚘🗓️ Car Rental
-- [carngo]()
-- [Hertz]()
-- [EuropaCar]()
-- [Locauto]()
+- [carngo](https://play.google.com/store/apps/details?id=carngo.app)
+- [Hertz](https://play.google.com/store/apps/details?id=com.hertz)
+- [EuropaCar](https://play.google.com/store/apps/details?id=com.clanmo.europcar)
+- [Locauto](https://play.google.com/store/apps/details?id=com.locautorent.locautorent)
+- [Avis Auto Noleggio](https://play.google.com/store/apps/details?id=com.avis.mobile)
 
 ## 🚅✈️ Travel
 - [Omio]()
