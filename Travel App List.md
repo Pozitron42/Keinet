@@ -22,6 +22,7 @@
 - [Trenitalia](https://play.google.com/store/apps/details?id=com.lynxspa.prontotreno)
 - [FlixBus](https://play.google.com/store/apps/details?id=de.flixbus.app)
 - [BlaBla Car](https://play.google.com/store/apps/details?id=com.comuto)
+- [Navily](https://play.google.com/store/apps/details?id=com.ckcnet.android.navily)
 
 - [CityMapper](https://play.google.com/store/apps/details?id=com.citymapper.app.release)
 - [Moovit](https://play.google.com/store/apps/details?id=com.tranzmate)
@@ -36,6 +37,7 @@
 - [GMaps](https://play.google.com/store/apps/details?id=com.google.android.apps.maps)
 - [PackPoint](https://play.google.com/store/apps/details?id=com.YRH.PackPoint)
 - [PolarSteps](https://play.google.com/store/apps/details?id=com.polarsteps)
+
 ## 🍝 Food
 - [GMaps](https://play.google.com/store/apps/details?id=com.google.android.apps.maps)
 - [The Fork](https://play.google.com/store/apps/details?id=com.lafourchette.lafourchette)
