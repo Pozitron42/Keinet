@@ -37,7 +37,6 @@
 - [GMaps](https://play.google.com/store/apps/details?id=com.google.android.apps.maps)
 - [PackPoint](https://play.google.com/store/apps/details?id=com.YRH.PackPoint)
 - [PolarSteps](https://play.google.com/store/apps/details?id=com.polarsteps)
-- [SaveTrip](https://play.google.com/store/apps/details?id=com.woomanlabs.mytravelnote)
 
 ## 🍝 Food
 - [GMaps](https://play.google.com/store/apps/details?id=com.google.android.apps.maps)
